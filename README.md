@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Abdulqadir Zakir
 - 👀 I’m interested in Cloud Computing and Machine Learning.
 - 📫 You could reach out to me on [LinkedIn](linkedin.com/in/abdulqadirzakir)
+- 💻 Pursuing my Masters in Computer Science at New York University
 
 <!---
 aqz5253/aqz5253 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
